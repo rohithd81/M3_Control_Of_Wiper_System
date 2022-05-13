@@ -18,5 +18,18 @@ The STM32F407 Kit makes it simple for users to construct audio-based application
  # USES
   * This microcontroller is used in printers and scanners, as well as heating, ventilation, and air conditioning and security systems.
   *  This module can be found in a wide range of everyday items.
-  
+# WORKING PRINCIPLE
+Assume the microcontroller is the automobile. When the button is pressed, the first led (red) turns on, the wiper starts, and the second led (blue) turns on at the appropriate rate. The third led (green) will turn on if the button is pressed again, and the wiper speed will be increased in contrast to the previous one. The fourth press will activate the fourth led (orange) and raise the wiper speed in accordance with the previous one. After the fifth click, the microcontroller (vehicle) is turned off.
+## 4 W'S
+# WHAT IS WIPER SYSTEM
+Windscreen wipers are required for the driver to have a clear view, especially in modern high-speed vehicles.
+
+# WHY WIPER SYSTEM
+To keep the windscreen clean enough to give adequate view at all times.
+
+# WHEN SHOULD USE WIPER SYSTEM
+The windshield wipers clear the windshield of rain and snow, and the headlights improve visibility at night.
+
+# WHO DISCOVERED WIPER SYSTEM
+Mark Anderson invented on 1902
  
