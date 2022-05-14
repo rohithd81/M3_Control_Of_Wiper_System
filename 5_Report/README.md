@@ -45,3 +45,24 @@ Mark Anderson invented on 1902
 ![HIGH WIPER SPEED](https://user-images.githubusercontent.com/74349463/168213999-9f31213f-9785-4819-b3c8-0c087ad9c3bd.png)
 # OFF STATE
 ![OFF STAE](https://user-images.githubusercontent.com/74349463/168214117-dd5170c4-82cb-4105-a952-f5885f24669e.png)
+# DETAIL REQUIREMENTS :
+
+# HIGHLEVEL REQUIREMENTS 
+
+|High Level Requirements|Description|
+|:------|:---------|
+|HLR1|Programming language(C language)|
+|HLR2|Arm based microcontroller(STM32F40VGT6)|
+|HLR3|operating system(Windows)|
+|HLR4|RAM(Min 4GB)|
+|HLR5|Hard Disk(Min 250GB)|
+
+# LOWLEVEL REQUIREMENTS
+
+|Low Level Reqiurements|Description|Status|
+|:-----|:--------|:---|
+|LLR1|ON-Ignition key|Implemented|
+|LLR2|Press Multi-functional button|Implemented|
+|LLR3|4 Different Color Leds|Implemented|
+|LLR4|Timer|Implemented|
+|LLR5|OFF-Wiper button|Implemented|
