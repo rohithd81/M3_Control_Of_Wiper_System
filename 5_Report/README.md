@@ -67,3 +67,16 @@ Mark Anderson invented on 1902
 |LLR3|4 Different Color Leds|Implemented|
 |LLR4|Timer|Implemented|
 |LLR5|OFF-Wiper button|Implemented|
+ # SWOT ANALYSIS
+ ## STRENGTH
+ * Low Budget
+ * Good Reputation
+ ## WEAKNESS
+ * Structural Inertia
+ * High Transaction
+ ## OPPORTUNITIES
+ * Emerging New Markets
+ * Demand for Saver Equipments
+ ## THREATS 
+ * Low Bargaining Power Buyers
+ * Economical Crisis
